@@ -55,8 +55,11 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name: VISWANADHAM VENKATA SAI SRUTHI
+### Register Number: 212223100061
+
+![Screenshot (160)](https://github.com/sruthiviswanadham/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151760421/41a45664-9a10-40b9-8ed5-33e89081a922)
+![Screenshot (162)](https://github.com/sruthiviswanadham/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151760421/8b92079b-7ba1-43e9-af60-ae4f9d20d302)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
